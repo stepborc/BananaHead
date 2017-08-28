@@ -1,3 +1,4 @@
+#!/bin/bash
 #sudo apt-get install apt-transport-https
 #apt-get install apt-transport-https
 #sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 379CE192D401AB61
